@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="RTP 1 HD"tvg-id="RTP 1"tvg-logo="http://prinplay.com.br/server/RTP%201.png"group-title="Portugal",RTP 1 HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1604
+#EXTINF:-1 tvg-name="RTP 2 HD"tvg-id="RTP 2"tvg-logo="http://prinplay.com.br/server/RTP%202.png"group-title="Portugal",RTP 2 HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1603
+#EXTINF:-1 tvg-name="RTP 3 HD"tvg-id="RTP 3 HD"tvg-logo="http://prinplay.com.br/server/RTP%203.png"group-title="Portugal",RTP 3 HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1479
+#EXTINF:-1 tvg-name="SIC HD"tvg-id="SIC"tvg-logo="http://prinplay.com.br/server/SIC.png"group-title="Portugal",SIC HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/10224
+#EXTINF:-1 tvg-name="TVI HD"tvg-id="TVI HD"tvg-logo="http://prinplay.com.br/server/TVI.png"group-title="Portugal",TVI HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1483
+#EXTINF:-1 tvg-name="SIC Noticias  HD"tvg-id="SICN"tvg-logo="http://prinplay.com.br/server/SIC%20Not%C3%ADcias.png"group-title="Portugal",SIC Noticias  HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/10226
+#EXTINF:-1 tvg-name="CMTV HD"tvg-id="CMTV"tvg-logo="http://prinplay.com.br/server/CMTV.png"group-title="Portugal",CMTV HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/10230
+#EXTINF:-1 tvg-name="CNN Portugal HD"tvg-id="CNN Portugal HD"tvg-logo="http://prinplay.com.br/server/CNN.png"group-title="Portugal",CNN Portugal HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/899603
+#EXTINF:-1 tvg-name="SIC Caras HD "tvg-id="SICCARAS"tvg-logo="http://prinplay.com.br/server/Sic%20Caras.png"group-title="Portugal",SIC Caras HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/51991
+#EXTINF:-1 tvg-name="SIC Mulher HD"tvg-id="SICM"tvg-logo="http://prinplay.com.br/server/SIC%20Mulher.png"group-title="Portugal",SIC Mulher HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/10227
+#EXTINF:-1 tvg-name="SIC Radical HD"tvg-id="SICR"tvg-logo="http://prinplay.com.br/server/Sic%20Radical.png"group-title="Portugal",SIC Radical HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/10225
+#EXTINF:-1 tvg-name="TVI Ficcao HD "tvg-id="TVI Ficção"tvg-logo="http://prinplay.com.br/server/TVI%20Fic%C3%A7%C3%A3o.png"group-title="Portugal",TVI Ficcao HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/51992
+#EXTINF:-1 tvg-name="TVI Reality HD"tvg-id="TVI REALITY"tvg-logo="http://prinplay.com.br/server/TVI%20Reality.png"group-title="Portugal",TVI Reality HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1489
+#EXTINF:-1 tvg-name="A Bola TV HD"tvg-id="A Bola TV"tvg-logo="http://prinplay.com.br/server/A%20Bola%20TV.png"group-title="Portugal",A Bola TV HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1535
+#EXTINF:-1 tvg-name="Sport TV + HD "tvg-id="SPORT.TV+"tvg-logo="http://prinplay.com.br/server/Sport%20TV%20%2B.png"group-title="Portugal",Sport TV + HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/51993
+#EXTINF:-1 tvg-name="Sport TV 1 Full HD"tvg-id="SPORT TV 1 HD"tvg-logo="http://prinplay.com.br/server/Sport%20TV%201.png"group-title="Portugal",Sport TV 1 Full HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1514
+#EXTINF:-1 tvg-name="Sport TV 2 Full HD"tvg-id="SPORT TV 2 FHD"tvg-logo="http://prinplay.com.br/server/Sport%20TV%202.png"group-title="Portugal",Sport TV 2 Full HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1517
+#EXTINF:-1 tvg-name="Sport TV 3 Full HD"tvg-id="SPORTV3HD(LOWBITRATE)"tvg-logo="http://prinplay.com.br/server/Sport%20TV%203.png"group-title="Portugal",Sport TV 3 Full HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1520
+#EXTINF:-1 tvg-name="Sport TV 4 Full HD"tvg-id="SPORTV4HD"tvg-logo="http://prinplay.com.br/server/Sport%20TV%204.png"group-title="Portugal",Sport TV 4 Full HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1523
+#EXTINF:-1 tvg-name="Sport TV 5 Full HD"tvg-id="SPORTV5HD"tvg-logo="http://prinplay.com.br/server/Sport%20TV%205.png"group-title="Portugal",Sport TV 5 Full HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1526
+#EXTINF:-1 tvg-name="Sport TV 6 HD "tvg-id="SPORT TV 6 HD"tvg-logo=""group-title="Portugal",Sport TV 6 HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/68314
+#EXTINF:-1 tvg-name="Sport TV NBA "tvg-id="SportTVNBA"tvg-logo="http://prinplay.com.br/server/NBA%20TV.png"group-title="Portugal",Sport TV NBA
+http://dns.acaidopara.net:8080/973262825/marcelo0102/45258
+#EXTINF:-1 tvg-name="BTV FHD"tvg-id="BTV HD1"tvg-logo="http://prinplay.com.br/server/Benfica%20TV.png"group-title="Portugal",BTV FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1529
+#EXTINF:-1 tvg-name="Sporting TV HD"tvg-id="SPORTINGHD"tvg-logo="http://prinplay.com.br/server/Sporting%20TV.png"group-title="Portugal",Sporting TV HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1533
+#EXTINF:-1 tvg-name="Eleven Sports 1 FHD"tvg-id="Eleven Sports 1"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 1 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2377
+#EXTINF:-1 tvg-name="Eleven Sports 2 FHD"tvg-id="Eleven Sports 2"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 2 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2385
+#EXTINF:-1 tvg-name="Eleven Sports 3 FHD"tvg-id="elevensports3FHD"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 3 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2391
+#EXTINF:-1 tvg-name="Eleven Sports 4 FHD"tvg-id="Eleven Sports 4"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 4 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2398
+#EXTINF:-1 tvg-name="Eleven Sports 5 FHD"tvg-id="elevensports5HD"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 5 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2405
+#EXTINF:-1 tvg-name="Eleven Sports 6 FHD"tvg-id="elevensports6LB"tvg-logo="http://prinplay.com.br/server/Eleven%20Sports.png"group-title="Portugal",Eleven Sports 6 FHD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2411
+#EXTINF:-1 tvg-name="Canal 11 HD"tvg-id="CANAL 11 HD"tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11.png"group-title="Portugal",Canal 11 HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/2623
+#EXTINF:-1 tvg-name="Eurosport 1"tvg-id="EUROSPORT 1"tvg-logo="http://prinplay.com.br/server/EuroSport%201.png"group-title="Portugal",Eurosport 1
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1536
+#EXTINF:-1 tvg-name="Eurosport 2"tvg-id="EUROS2"tvg-logo="http://prinplay.com.br/server/EuroSport%202.png"group-title="Portugal",Eurosport 2
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1537
+#EXTINF:-1 tvg-name="Fight Sports HD"tvg-id="FIGHTHD"tvg-logo="http://prinplay.com.br/server/Fight%20Network.png"group-title="Portugal",Fight Sports HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1538
+#EXTINF:-1 tvg-name="Gametoon HD"tvg-id="GAMETOON HD"tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png"group-title="Portugal",Gametoon HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/52023
+#EXTINF:-1 tvg-name="GINX Esports"tvg-id="GINX ESPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png"group-title="Portugal",GINX Esports
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1540
+#EXTINF:-1 tvg-name="Porto Canal"tvg-id="PORTO"tvg-logo="http://prinplay.com.br/server/Porto%20Canal.png"group-title="Portugal",Porto Canal
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1497
+#EXTINF:-1 tvg-name="MotorVision TV HD"tvg-id="MOTORVISION"tvg-logo="http://prinplay.com.br/server/Motorvision.png"group-title="Portugal",MotorVision TV HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1541
+#EXTINF:-1 tvg-name="TVCine Top HD"tvg-id="TVCine TOP HD"tvg-logo="http://prinplay.com.br/server/TV%20Cine%201.png"group-title="Portugal",TVCine Top HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1544
+#EXTINF:-1 tvg-name="TVCine Edition HD"tvg-id="TVC2HD(LOWBITRATE)"tvg-logo="http://prinplay.com.br/server/TV%20Cine%202.png"group-title="Portugal",TVCine Edition HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1546
+#EXTINF:-1 tvg-name="TVCine Emotion HD"tvg-id="TVC3"tvg-logo="http://prinplay.com.br/server/TV%20Cine%203.png"group-title="Portugal",TVCine Emotion HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1548
+#EXTINF:-1 tvg-name="TVCine Action HD"tvg-id="TVCine ACTION HD"tvg-logo="http://prinplay.com.br/server/TV%20Cine%204.png"group-title="Portugal",TVCine Action HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1550
+#EXTINF:-1 tvg-name="AMC HD"tvg-id="AMC HD"tvg-logo="http://prinplay.com.br/server/AMC.png"group-title="Portugal",AMC HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1568
+#EXTINF:-1 tvg-name="AXN HD"tvg-id="AXN"tvg-logo="http://prinplay.com.br/server/AXN.png"group-title="Portugal",AXN HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1553
+#EXTINF:-1 tvg-name="AXN Movies HD"tvg-id="AXN"tvg-logo="http://prinplay.com.br/server/AXN.png"group-title="Portugal",AXN Movies HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1554
+#EXTINF:-1 tvg-name="AXN White HD"tvg-id="AXN White"tvg-logo="http://prinplay.com.br/server/AXN%20White.png"group-title="Portugal",AXN White HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1557
+#EXTINF:-1 tvg-name="AXN White"tvg-id="AXN White"tvg-logo="http://prinplay.com.br/server/AXN%20White.png"group-title="Portugal",AXN White
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1558
+#EXTINF:-1 tvg-name="FOX Comedy HD"tvg-id="FOX COMEDY HD"tvg-logo="http://prinplay.com.br/server/Fox%20Comedy.png"group-title="Portugal",FOX Comedy HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1563
+#EXTINF:-1 tvg-name="FOX Crime HD"tvg-id="FOXCRIME"tvg-logo="http://prinplay.com.br/server/Fox%20Crime.png"group-title="Portugal",FOX Crime HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1564
+#EXTINF:-1 tvg-name="FOX HD"tvg-id="FOX"tvg-logo="http://prinplay.com.br/server/Fox.png"group-title="Portugal",FOX HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1561
+#EXTINF:-1 tvg-name="Fox Life HD"tvg-id="FOXLIFELOWOUHD"tvg-logo="http://prinplay.com.br/server/Fox%20Life.png"group-title="Portugal",Fox Life HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1562
+#EXTINF:-1 tvg-name="FOX Movies HD"tvg-id="FOX MOVIES"tvg-logo="http://prinplay.com.br/server/Fox%20Movies.png"group-title="Portugal",FOX Movies HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1565
+#EXTINF:-1 tvg-name="Hollywood HD"tvg-id="HOLLY"tvg-logo="http://prinplay.com.br/server/Canal%20Hollywood.png"group-title="Portugal",Hollywood HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1566
+#EXTINF:-1 tvg-name="Hollywood"tvg-id="HOLLY"tvg-logo="http://prinplay.com.br/server/Canal%20Hollywood.png"group-title="Portugal",Hollywood
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1567
+#EXTINF:-1 tvg-name="Nos Studios HD "tvg-id="NOSSTUDIOSHD"tvg-logo=""group-title="Portugal",Nos Studios HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/45491
+#EXTINF:-1 tvg-name="Syfy HD"tvg-id="SYFY LOW"tvg-logo="http://prinplay.com.br/server/Syfy.png"group-title="Portugal",Syfy HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1570
+#EXTINF:-1 tvg-name="Cinemundo HD"tvg-id="Cinemundo"tvg-logo="http://prinplay.com.br/server/Cine%20Mundo.png"group-title="Portugal",Cinemundo HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1569
+#EXTINF:-1 tvg-name="AMC Crime HD"tvg-id="AMC Crime"tvg-logo="http://prinplay.com.br/server/AMC.png"group-title="Portugal",AMC Crime HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1571
+#EXTINF:-1 tvg-name="Canal Panda"tvg-id="PANDA"tvg-logo="http://prinplay.com.br/server/Canal%20Panda.png"group-title="Portugal",Canal Panda
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1503
+#EXTINF:-1 tvg-name="Panda Kids"tvg-id="PANDABIGGS"tvg-logo="http://prinplay.com.br/server/Panda%20Biggs.png"group-title="Portugal",Panda Kids
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1504
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CART"tvg-logo="http://prinplay.com.br/server/Cartoon%20Network.png"group-title="Portugal",Cartoon Network
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1505
+#EXTINF:-1 tvg-name="Baby TV"tvg-id="Baby TV"tvg-logo="http://prinplay.com.br/server/Baby%20TV.png"group-title="Portugal",Baby TV
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1508
+#EXTINF:-1 tvg-name="Discovery Channel HD"tvg-id="Discovery"tvg-logo="http://prinplay.com.br/server/Discovery%20Channel.png"group-title="Portugal",Discovery Channel HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1574
+#EXTINF:-1 tvg-name="Disney Channel HD"tvg-id="DISNY"tvg-logo="http://prinplay.com.br/server/Disney%20Channel.png"group-title="Portugal",Disney Channel HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1510
+#EXTINF:-1 tvg-name="Disney Junior HD"tvg-id="DISNEYJUNIOR"tvg-logo="http://prinplay.com.br/server/Disney%20Jr..png"group-title="Portugal",Disney Junior HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1511
+#EXTINF:-1 tvg-name="SIC K"tvg-id="SIC K"tvg-logo="http://prinplay.com.br/server/SIC%20Kids.png"group-title="Portugal",SIC K
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1509
+#EXTINF:-1 tvg-name="Nickelodeon"tvg-id="nick.br"tvg-logo="http://prinplay.com.br/server/Nickelodeon.png"group-title="Portugal",Nickelodeon
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1506
+#EXTINF:-1 tvg-name="TLC"tvg-id="TLC"tvg-logo="http://prinplay.com.br/server/TLC.png"group-title="Portugal",TLC
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1587
+#EXTINF:-1 tvg-name="24 Kitchen HD"tvg-id="24 Kitchen"tvg-logo="http://prinplay.com.br/server/24%20Kitchen.png"group-title="Portugal",24 Kitchen HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1586
+#EXTINF:-1 tvg-name="24 Kitchen"tvg-id="24 Kitchen"tvg-logo="http://prinplay.com.br/server/24%20Kitchen.png"group-title="Portugal",24 Kitchen
+http://dns.acaidopara.net:8080/973262825/marcelo0102/12779
+#EXTINF:-1 tvg-name="E! "tvg-id="EENTER"tvg-logo="http://prinplay.com.br/server/E%21%20Entertainment.png"group-title="Portugal",E!
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1588
+#EXTINF:-1 tvg-name="National Geographic Wild HD"tvg-id="NGC"tvg-logo="http://prinplay.com.br/server/National%20Geographic.png"group-title="Portugal",National Geographic Wild HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1576
+#EXTINF:-1 tvg-name="National Geographic HD"tvg-id="NATIONAL GEOGRAPHIC"tvg-logo="http://prinplay.com.br/server/Nat%20Geo%20Wild.png"group-title="Portugal",National Geographic HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1578
+#EXTINF:-1 tvg-name="Odisseia"tvg-id="ODISSEIA HD"tvg-logo="http://prinplay.com.br/server/Odisseia.png"group-title="Portugal",Odisseia
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1579
+#EXTINF:-1 tvg-name="Historia HD"tvg-id="Canal História"tvg-logo="http://prinplay.com.br/server/Canal%20Hist%C3%B3ria.png"group-title="Portugal",Historia HD
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1577
+#EXTINF:-1 tvg-name="Caça e Pesca"tvg-id="Caça e Pesca"tvg-logo="http://prinplay.com.br/server/Ca%C3%A7a%20e%20Pesca.png"group-title="Portugal",Caça e Pesca
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1583
+#EXTINF:-1 tvg-name="Cacavision"tvg-id="Caça Vision"tvg-logo="http://prinplay.com.br/server/Ca%C3%A7avision.png"group-title="Portugal",Cacavision
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1584
+#EXTINF:-1 tvg-name="Fuel TV"tvg-id="Ext_Spt"tvg-logo="http://prinplay.com.br/server/Fuel%20TV.png"group-title="Portugal",Fuel TV
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1596
+#EXTINF:-1 tvg-name="MTV Portugal"tvg-id="MTV"tvg-logo="http://prinplay.com.br/server/MTV.png"group-title="Portugal",MTV Portugal
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1591
+#EXTINF:-1 tvg-name="MCM Pop"tvg-id="MCMPOP"tvg-logo="http://prinplay.com.br/server/MCM%20Pop.png"group-title="Portugal",MCM Pop
+http://dns.acaidopara.net:8080/973262825/marcelo0102/1593
+#EXTINF:-1 tvg-name="ZAP Viva "tvg-id="ZAPVIVAHD"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png"group-title="Portugal",ZAP Viva
+http://dns.acaidopara.net:8080/973262825/marcelo0102/12778
+#EXTINF:-1 tvg-name="Trace Urban "tvg-id="TRACE URBAN"tvg-logo="http://prinplay.com.br/server/Trace%20Urban.png"group-title="Portugal",Trace Urban
+http://dns.acaidopara.net:8080/973262825/marcelo0102/75839
